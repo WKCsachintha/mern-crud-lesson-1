@@ -1,0 +1,35 @@
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/SenExtraBold.ttf");
+  font-family: "Sen";
+  font-weight: 800;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/SenBold.ttf");
+  font-family: "Sen";
+  font-weight: 700;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/InterExtraBold.ttf");
+  font-family: "Inter";
+  font-weight: 800;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/InterBold.ttf");
+  font-family: "Inter";
+  font-weight: 700;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/InterMedium.ttf");
+  font-family: "Inter";
+  font-weight: 500;
+}
